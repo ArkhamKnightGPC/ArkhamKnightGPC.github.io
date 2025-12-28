@@ -10,11 +10,10 @@ redirect_from:
 - I am a brazilian computer engineering student currently working at the [Laboratory of Computer Networks and Architecture - LARC](https://www.larc.usp.br/en) at the University of São Paulo, Brazil 🇧🇷
 - Graduate from the [engineering program at Ecole Polytechnique](https://programmes.polytechnique.edu/cycle-ingenieur-polytechnicien/cycle-ingenieur-polytechnicien) 🇫🇷
 - Computer Engineering bachelor from the [University of São Paulo](https://www.poli.usp.br/)
-- Worked as a web developer in the [Brazilian edtech Ada Tech](https://ada.tech/)
-- Summer internship at [STMicroelectronics in Crolles, France](https://www.st.com/content/st_com/en/about/manufacturing-at-st/our-facilities/crolles-st-site.html)
-- Six-months internship at [Arm in Sophia-Antipolis, France](https://careers.arm.com/france-sophia-antipolis-office)
-- In high school, I participated on many different [science olympiads](https://github.com/ArkhamKnightGPC/Certificados_Olimpiadas), won over 20 awards and was a gold medalist in the Brazilian Informatics Olympiad
-
+- Summer digital design internship at [STMicroelectronics in Crolles, France](https://www.st.com/content/st_com/en/about/manufacturing-at-st/our-facilities/crolles-st-site.html) (summer, 2024).
+- CPU Verification internship at [Arm in Sophia-Antipolis, France](https://careers.arm.com/france-sophia-antipolis-office) (summer/fall, 2025).
+- Lab projects as a student at [IP Paris' OMEGA Microelectronics laboratory](https://omega.ip-paris.fr/en/overview) and [LPICM - Laboratory of Physics of Interfaces and Thin Films](https://lpicm.cnrs.fr/about-us/welcome-to-lpicm/).
+- In high school, got awards on many different [science olympiads](https://github.com/ArkhamKnightGPC/Certificados_Olimpiadas) and was a gold medalist in the Brazilian Informatics Olympiad.
 
 **Interests**: Computer architecture, Digital electronics, FPGAs, Hardware implementations for cryptography (*crypto-hardware*).
 
