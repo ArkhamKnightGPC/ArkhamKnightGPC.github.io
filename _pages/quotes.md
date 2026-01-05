@@ -1,10 +1,10 @@
 ---
-permalink: /quotes/
+layout: archive
 title: ""
+permalink: /quotes/
 author_profile: true
 redirect_from:
-  - /quotes/
-  - /quotes.html
+  - /quotes
 ---
 
 > Men will set the goals, formulate the hypotheses, determine the criteria, and perform the evaluations. Computing machines will do the routinizable work that must be done to prepare the way for insights and decisions in technical and scientific thinking.
