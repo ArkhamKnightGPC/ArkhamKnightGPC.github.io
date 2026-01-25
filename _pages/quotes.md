@@ -33,8 +33,11 @@ redirect_from:
 </div>
 
 > If the recruit said, for instance, "I'm really interested in computer design", then Alsing would prod. The ideal interview would proceed in this fashion:
+>
 > "What interests you about that?"
+>
 > "I want to build one", says the recruit.
+>
 > "That's what I want to hear", thinks Alsing. "Now I want to find out if he means it".
 <div style="text-align: right">
   <em>Tracy Kidder, <i>The Soul of a New Machine</i></em>
