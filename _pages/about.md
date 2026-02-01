@@ -12,7 +12,7 @@ redirect_from:
 - I am a brazilian computer engineering student currently working on my engineering degree thesis at the [Laboratory of Computer Networks and Architecture - LARC](https://www.larc.usp.br/en) at the University of São Paulo, Brazil 🇧🇷
 - Graduated from the [engineering program at Ecole Polytechnique](https://programmes.polytechnique.edu/cycle-ingenieur-polytechnicien/cycle-ingenieur-polytechnicien) 🇫🇷
 
-**Research interests**: Hardware implementations for cryptography (*crypto-hardware*), RISC-V extensions.
+**Research interests**: Hardware implementations for cryptography (*crypto-hardware*), SoC design, Hardware/Software co-design.
 
 📫 Please feel free to reach out to me at [gabriel.pereira-de-carvalho.2022@polytechnique.org](mailto:gabriel.pereira-de-carvalho.2022@polytechnique.org)!
 
