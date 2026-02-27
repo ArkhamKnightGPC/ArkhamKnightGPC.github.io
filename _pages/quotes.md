@@ -12,11 +12,6 @@ redirect_from:
   <em>J.C.R Licklider</em>
 </div>
 
-> The really decisive considerations from the present point of view, in selecting an instruction set, are more of a practical nature: simplicity of the equipment demanded by the instruction set, and the clarity of its application to the actually important problems together with the speed of its handling of those problems.
-<div style="text-align: right">
-  <em>von Neumann</em>
-</div>
-
 > When you grow up you tend to get told the world is the way it is and your life is just to live your life inside the world. Try not to bash into the walls too much. Try to have a nice family life, have fun, save a little money. That’s a very limited life. Life can be much broader once you discover one simple fact, and that is — everything around you that you call life, was made up by people who were no smarter than you. And you can change it, you can influence it, you can build your own things that other people can use.
 <div style="text-align: right">
   <em>Steve Jobs</em>
