@@ -13,8 +13,6 @@ A small collection of short fiction written during my time at École polytechniq
 
 ## The Vampires of the New World
 
-In the aftermath of the Saint Bartholomew's day massacre, a group of French Huguenots sets sail for the New World looking to flee from persecution and start a new life. However, soon after settling at the island of Anticosti tragedy strikes their colony. It is the tale of faith, of finding something to live for, of a conflict between two vastly different worlds, and the violence that ensues.
-
 🔗 [Available on Wattpad.](https://www.wattpad.com/story/390844666-the-vampires-of-the-new-world)
 
 ---
@@ -49,7 +47,5 @@ In the aftermath of the Saint Bartholomew's day massacre, a group of French Hugu
 ---
 
 ## The Meek and the Merciful
-
-Life is nothing like a Hollywood movie. When all that youthful excitement is gone, and the juvenile promises for an orgastic future subside... can we still find the strength in ourselves to beat on, swimming towards the unknown ?
 
 🔗 [Available on Wattpad.](https://www.wattpad.com/1523127322-the-meek-and-the-merciful)
