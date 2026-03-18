@@ -11,12 +11,6 @@ A small collection of short fiction written during my time at École polytechniq
 
 ---
 
-## The Vampires of the New World
-
-🔗 [Available on Wattpad.](https://www.wattpad.com/story/390844666-the-vampires-of-the-new-world)
-
----
-
 ## Un ciel autrefois peuplé
 *X-Passion: Student Magazine at Ecole polytechnique*
 
@@ -43,6 +37,12 @@ A small collection of short fiction written during my time at École polytechniq
 <div class="concoursIPP-download-link">
   <a href="{{ base_path }}/files/concoursIPP.pdf" class="btn btn--primary">Download</a>
 </div>
+
+---
+
+## The Vampires of the New World
+
+🔗 [Available on Wattpad.](https://www.wattpad.com/story/390844666-the-vampires-of-the-new-world)
 
 ---
 
