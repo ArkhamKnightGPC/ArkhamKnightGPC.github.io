@@ -9,7 +9,7 @@ redirect_from:
 
 > [...] so nearly did events turn out otherwise that we need no imagination to see how the least bit less persistance, or the least bit less luck, might have consigned him to obscurity.
 <div style="text-align: right">
-  <em> Robert Kanigel, <i> The Man who Knew Infinity</i></em>
+  <em> Robert Kanigel, <i> The Man Who Knew Infinity</i></em>
 </div>
 
 > Men will set the goals, formulate the hypotheses, determine the criteria, and perform the evaluations. Computing machines will do the routinizable work that must be done to prepare the way for insights and decisions in technical and scientific thinking.
@@ -17,7 +17,7 @@ redirect_from:
   <em>J.C.R Licklider</em>
 </div>
 
-> When you grow up you tend to get told the world is the way it is and your life is just to live your life inside the world. Try not to bash into the walls too much. Try to have a nice family life, have fun, save a little money. That’s a very limited life. Life can be much broader once you discover one simple fact, and that is — everything around you that you call life, was made up by people who were no smarter than you. And you can change it, you can influence it, you can build your own things that other people can use.
+> When you grow up you tend to get told the world is the way it is and your life is just to live your life inside the world. Try not to bash into the walls too much. Try to have a nice family life, have fun, save a little money. That’s a very limited life. Life can be much broader once you discover one simple fact, and that is — everything around you that you call life, was made up by people who were no smarter than you.
 <div style="text-align: right">
   <em>Steve Jobs</em>
 </div>
