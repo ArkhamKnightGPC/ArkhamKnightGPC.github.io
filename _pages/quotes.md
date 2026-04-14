@@ -7,6 +7,11 @@ redirect_from:
   - /quotes
 ---
 
+> [...] so nearly did events turn out otherwise that we need no imagination to see how the least bit less persistance, or the least bit less luck, might have consigned him to obscurity.
+<div style="text-align: right">
+  <em> Robert Kanigel, <i> The Man who Knew Infinity</i></em>
+</div>
+
 > Men will set the goals, formulate the hypotheses, determine the criteria, and perform the evaluations. Computing machines will do the routinizable work that must be done to prepare the way for insights and decisions in technical and scientific thinking.
 <div style="text-align: right">
   <em>J.C.R Licklider</em>
