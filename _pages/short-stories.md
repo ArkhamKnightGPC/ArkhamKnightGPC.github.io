@@ -38,14 +38,3 @@ A small collection of short fiction written during my time at École polytechniq
   <a href="{{ base_path }}/files/concoursIPP.pdf" class="btn btn--primary">Download</a>
 </div>
 
----
-
-## The Vampires of the New World
-
-🔗 [Available on Wattpad.](https://www.wattpad.com/story/390844666-the-vampires-of-the-new-world)
-
----
-
-## The Meek and the Merciful
-
-🔗 [Available on Wattpad.](https://www.wattpad.com/1523127322-the-meek-and-the-merciful)
